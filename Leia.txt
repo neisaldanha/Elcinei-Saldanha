@@ -1,0 +1,17 @@
+Ola,
+
+O desafio não está completo. Tenho pouca experiência com back-end e o que consegui fazer foi:
+
+- Criar a API Laravel 5.6
+	* Cria um novo Usuário,
+	*lista os usuários cadastrados,
+	*tras os dados do usuario escolhido para editar.
+
+- Front-end feito com Laravel 5.6
+
+Resolvi aceitar o desafio para ir adquirindo experiência com back-end e claro pela vaga, também.
+
+OBS: Foi a primeira vez que fiz dessa maneira(Separando back-end do front-end).
+
+
+
